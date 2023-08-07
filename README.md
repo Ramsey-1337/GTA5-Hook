@@ -1,5 +1,6 @@
-# GTA5-Hook-Base
+# GTA5/FiveM/AltV-Hook
 
-GTA5 Hook/Base works on GTA5/AltV/FiveM
+As the name suggests, it is compatible with GTA 5, FiveM, and AltV, as well as potentially other GTA 5 multiplayer platforms.
 
-Not helping with debugging it!
+My Discord is Ramsey#1684
+ 
